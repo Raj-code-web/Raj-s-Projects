@@ -1,0 +1,218 @@
+h1{text-align: center;
+    color: rgb(255, 153, 0);
+    text-shadow: 1  px 5px 3px grey;
+
+
+}
+.info{
+    text-align: center;
+     font-size: 20px;
+}
+
+.info2{
+    text-align: center;
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(255, 240, 221);
+}
+
+.info2{
+font-weight: bold;
+}
+
+p{
+    font-size: 21px;
+    
+}
+
+#about{
+    background-color:bisque;
+    padding-top: 15px;
+}
+
+#pi{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    
+}
+
+#pi p{
+    margin-left: 20px;
+    text-align: justify;
+    width: 600px;
+    
+}
+
+#menu ol{
+    font-size: 25px;
+    width: 300px;
+    margin: auto;
+}
+
+td,th{
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.menu{
+    border-collapse: collapse;
+    width: 45%;
+    margin: auto;
+    text-align: center;
+    height: 200px;
+}
+
+thead{
+    background-color:lightblue;
+    height: 30px;
+}
+
+tbody{
+    background-color: white;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.item img{
+    height: 500px;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 1000px;
+    
+    
+    
+
+}
+
+h3{
+    text-align: center;
+}
+
+#services{
+    background-color: bisque;
+
+}
+#services h1{
+    padding-top: 20px;
+}
+
+nav{
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    height: 40px;
+    position:fixed;
+    width:100%;
+    top:0
+    
+    
+}
+
+nav a{
+    
+    text-decoration: none;
+    color:black;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+header p{
+    text-align: center;
+ 
+}
+
+header img{
+    display: block;
+    margin: auto;
+}
+
+
+#menu{
+    padding-top: 20px;
+}
+
+#services{
+    padding-top: 20px;
+}
+
+
+footer p{
+    text-align: center;
+    font-size: 17px;
+
+   
+}
+
+
+footer h3{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+footer a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+
+#email{
+    font-size: 20px;
+}
+
+
+
+
+.code{
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: auto;
+    
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+form{
+    
+    display: block;
+    margin: auto;
+    width:max-content;
+    border: 1px solid orange;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+
+.apply{
+    text-align: center;
+    
+}
+
+input, select{
+    font-size: 15px;
+}
+
+
+
+
+
+
